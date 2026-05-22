@@ -64,4 +64,4 @@ Python • FastAPI • Flask • Flutter • JavaScript • Linux • SQL • Gi
 
 ## 📫 Contact
 
-🌐 https://academysign.com
+🌐 https://academysign.com.tr
