@@ -1,34 +1,67 @@
-# Hi, I'm Ali Durdu 👋
+# Ali Durdu
 
 Software Developer | AI & Automation | Programming Instructor | Academic Researcher
 
-I work on:
-- Python Development
-- AI & Automation Systems
-- Cybersecurity Tools
-- Educational Technologies
-- Academic Software Solutions
+🌐 Website: https://academysign.com.tr
+📧 Mail: alidurdu@gmail.com
 
-## About Me
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Study Assistant
+AI-powered educational assistant for quiz generation, PDF analysis, and academic support.
+
+Python FastAPI OpenAI PostgreSQL
+
+---
+
+### 🤖 Telegram Automation Bot
+Automation bot for customer communication, student support, and notifications.
+
+Python Telegram API SQLite
+
+---
+
+### 🔐 Cybersecurity Dashboard
+Security monitoring and vulnerability analysis dashboard.
+
+Python Flask CVE API Linux
+
+---
+
+### 📚 Educational Management System
+Platform for course management, assignments, mentoring, and online education.
+
+Flutter FastAPI PostgreSQL
+
+---
+
+## 👨‍🏫 Experience
+
 - Mentored 50+ university students in software engineering and programming projects
-- Worked on international UK-based academic and software projects
-- Interested in AI-powered educational systems and automation technologies
+- Worked on UK-based international academic and software projects
+- Developing AI-powered educational technologies
+- Interested in cybersecurity, automation, and software consulting
 
-## Technologies
-- Python
-- FastAPI
-- Flask
-- JavaScript
-- Flutter
-- SQL
-- Linux
-- Git & GitHub
+---
 
-## Current Focus
-- AI-powered study assistant systems
+## ⚡ Technologies
+
+Python • FastAPI • Flask • Flutter • JavaScript • Linux • SQL • Git • Docker
+
+---
+
+## 🎯 Current Focus
+
+- AI-powered educational systems
 - Automation tools
 - Cybersecurity projects
-- Educational software platforms
+- Academic software platforms
+- Software consulting
 
-## Contact
-- Website: https://academysign.com
+---
+
+## 📫 Contact
+
+🌐 https://academysign.com
