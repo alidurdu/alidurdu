@@ -5,63 +5,52 @@ Software Developer | AI & Automation | Programming Instructor | Academic Researc
 🌐 Website: https://academysign.com.tr
 📧 Mail: alidurdu@gmail.com
 
----
+Software Engineer, Associate Professor, and Founder of AcademySign with experience in backend development, artificial intelligence, educational technologies, cybersecurity, and enterprise software systems.
 
-## 🚀 Featured Projects
+Over the past years, I have developed university-scale digital infrastructures, learning management systems, examination platforms, identity management solutions, and AI-powered applications. My recent work focuses on backend systems, Linux programming, machine learning, computer vision, and educational software technologies.
 
-### 🧠 AI Study Assistant
-AI-powered educational assistant for quiz generation, PDF analysis, and academic support.
+## Core Expertise
 
-Python FastAPI OpenAI PostgreSQL
+* Backend Development (.NET, Python, Java)
+* Linux Systems Programming
+* Network Programming (TCP/IP, SMTP, Multithreading)
+* Artificial Intelligence & Machine Learning
+* Computer Vision & Deep Learning
+* Educational Technologies
+* Database Design & Entity Framework Core
+* Software Architecture
 
----
+## Featured Projects
 
-### 🤖 Telegram Automation Bot
-Automation bot for customer communication, student support, and notifications.
+### Linux Systems & Networking
 
-Python Telegram API SQLite
+* Linux Task Processing System
+* Linux Multithread Task System
+* Linux SMTP Server
+* TCP Protocol Client
 
----
+### Artificial Intelligence
 
-### 🔐 Cybersecurity Dashboard
-Security monitoring and vulnerability analysis dashboard.
+* AI Defect Detection System (YOLOv2)
+* Robotic Arm Deep Learning
+* Optimization with Simulated Annealing
 
-Python Flask CVE API Linux
+### Software Engineering
 
----
+* C++ Chess Engine
+* EF Core One-to-One Relationships
+* Java Vehicle Management System
+* Python Web Scraping and API Projects
 
-### 📚 Educational Management System
-Platform for course management, assignments, mentoring, and online education.
+## Professional Background
 
-Flutter FastAPI PostgreSQL
+* Founder, AcademySign
+* Associate Professor
+* Head of Management Information Systems Department
+* Director of Distance Education Center
+* Former Director of Information Technologies and Digital Transformation Projects
 
----
+## Interests
 
-## 👨‍🏫 Experience
+Artificial Intelligence • Backend Systems • Educational Technologies • Cybersecurity • Automation • Software Consulting
 
-- Mentored 50+ university students in software engineering and programming projects
-- Worked on UK-based international academic and software projects
-- Developing AI-powered educational technologies
-- Interested in cybersecurity, automation, and software consulting
-
----
-
-## ⚡ Technologies
-
-Python • FastAPI • Flask • Flutter • JavaScript • Linux • SQL • Git • Docker
-
----
-
-## 🎯 Current Focus
-
-- AI-powered educational systems
-- Automation tools
-- Cybersecurity projects
-- Academic software platforms
-- Software consulting
-
----
-
-## 📫 Contact
-
-🌐 https://academysign.com.tr
